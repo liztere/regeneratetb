@@ -5,11 +5,6 @@ id: home
 permalink: /
 ---
 
----
-layout: page
-title: Welcome :)
----
-
 # Regenerating Our Bioregion
 
 Welcome to the Regenerate Tampa Bay knowledge garden: a living, evolving collection of ideas, practices, and connections exploring what it means to create regenerative cultures in our region.
@@ -32,7 +27,7 @@ Start anywhere and follow the threads that call to you:
 
 ### Our Practice
 - [[Community Gatherings]] - How we come together
-- [[Past Events]] - Stories from our convergences
+- [[Events]] - Past & future gatherings
 - [[Learning from Nature]] - Biomimicry and ecosystem wisdom
 
 ### Get Involved
@@ -45,11 +40,11 @@ Start anywhere and follow the threads that call to you:
 
 This is a **digital garden**, not a blog. Notes are:
 - **Constantly growing** - we add and refine over time
-- **Interconnected** - follow the `[[links]]` between ideas
+- **Interconnected** - follow the [[links]] between ideas
 - **Non-linear** - there's no required reading order
 - **Living** - ideas evolve as we learn
 
-Click any `[[linked term]]` to explore that concept. At the bottom of each page, you'll see backlinks—other notes that reference this idea.
+Click any [[linked term]] to explore that concept. At the bottom of each page, you'll see backlinks—other notes that reference this idea.
 
 **New to regenerative thinking?** Start with [[What is Regeneration]] or [[Daniel Christian Wahl]].
 
