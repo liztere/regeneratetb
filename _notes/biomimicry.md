@@ -1,121 +1,140 @@
 ---
-title: Biomimicry
+title: Pattern Literacy
 ---
 
-**Bioregional design** means creating solutions that are uniquely adapted to the ecological and cultural characteristics of a specific place—rather than imposing one-size-fits-all approaches.
+**Pattern literacy** is the ability to recognize patterns that sustain life across all scales—from cells to ecosystems to cultures—and apply those patterns in our designs.
 
-## What is a Bioregion?
+## What Are Life-Sustaining Patterns?
 
-A bioregion is a territory defined by natural features rather than political boundaries:
-- Watersheds and water systems
-- Native species and ecosystems
-- Climate patterns and seasons
-- Geological features
-- Cultural history tied to the land
+Nature has been evolving for 3.8 billion years, discovering patterns that work:
+- **Cycles** - seasons, water cycles, nutrient cycles
+- **Networks** - root systems, neural networks, watersheds  
+- **Feedback loops** - self-regulation and adaptation
+- **Nested systems** - cells within organs within organisms
+- **Diversity** - resilience through variety
+- **Reciprocity** - mutual benefit and symbiosis
+- **Edge effects** - richness at boundaries and transitions
 
-The **Tampa Bay bioregion** includes our coastlines, rivers, wetlands, pine flatwoods, and the human communities that have evolved here over millennia.
+These patterns appear everywhere life thrives.
 
-## Principles of Bioregional Design
+## Why Pattern Literacy Matters
 
-### 1. Learn From Place
+[[Daniel Christian Wahl]] teaches that pattern literacy is essential for [[Regenerative Culture]]:
 
-Before designing anything, we must:
-- **Observe** the patterns and flows of local ecosystems
-- **Listen** to the land and what it's telling us
-- **Study** indigenous knowledge and long-term ecological history
-- **Understand** seasonal cycles, water flows, species relationships
+> "By learning to recognize the patterns that connect, we can design with life rather than against it."
 
-As [[Daniel Christian Wahl]] teaches through [[Pattern Literacy]], nature has already solved the problems we face—we just need to learn to read the patterns.
+When we're pattern literate, we can:
+- See the same organizing principles in forests, watersheds, and communities
+- Apply nature's proven solutions to human challenges
+- Recognize when our designs violate life-sustaining patterns
+- Create systems that enhance rather than degrade life
 
-### 2. Design With Place, Not Against It
+## Universal Patterns in Living Systems
 
-Work with existing ecological patterns rather than imposing human will:
-- Capture and slow water where it naturally flows
-- Plant species native to our soils and climate
-- Build with local materials adapted to our conditions
-- Design with hurricanes, floods, and heat in mind
+### 1. Cycles and Spirals
+Life moves in cycles, not straight lines:
+- Day/night, seasons, water cycle
+- Birth, growth, death, renewal
+- Inhale/exhale, systole/diastole
 
-### 3. Adapt Solutions to Context
+**Design implication**: Create circular systems with no waste—outputs become inputs.
 
-What works in the Pacific Northwest won't work in Florida. What thrives in North Tampa may struggle in coastal areas. Every place is unique.
+### 2. Branching Networks
+From river deltas to blood vessels to trees:
+- Efficient distribution of resources
+- Fractal patterns repeating at different scales
+- Reaching into every part of the system
 
-Bioregional design asks: **"What does THIS place need to thrive?"**
+**Design implication**: Distribute resources through networks, not centralized hierarchies.
 
-### 4. Rebuild Bioregional Economies
+### 3. Nested Holons
+Every system is whole *and* part:
+- Atom → molecule → cell → organ → organism → ecosystem
+- Individual → family → community → bioregion
 
-Create economic systems rooted in place:
-- Local food systems adapted to our growing seasons
-- Materials and resources from the bioregion
-- Circular economies that don't extract and export
-- Livelihoods that enhance rather than degrade local ecosystems
+**Design implication**: Design for multiple scales simultaneously—what benefits the individual, community, AND ecosystem?
 
-## Tampa Bay Bioregional Context
+### 4. Edge Effects
+Life flourishes at boundaries:
+- Forest edge / meadow
+- River / land
+- Intertidal zones
 
-### Our Ecosystems
-- Coastal estuaries and mangrove forests
-- Pine flatwoods and oak hammocks
-- Freshwater springs and rivers
-- Wetlands and cypress swamps
-- Barrier islands and beaches
+**Design implication**: Create productive edges and transitions, not hard barriers.
 
-### Our Climate
-- Subtropical, wet summers / dry winters
-- Hurricane season: June-November
-- High heat and humidity
-- Intense afternoon thunderstorms
-- Sea level rise and coastal vulnerability
+### 5. Diversity and Redundancy
+Resilience comes from variety:
+- Polycultures vs. monocultures
+- Multiple pathways for essential functions
+- Diverse species, strategies, solutions
 
-### Our Challenges
-- Development pressure on remaining wild lands
-- Water quality in the bay and watershed
-- Urban heat island effects
-- Loss of biodiversity
-- Climate adaptation needs
+**Design implication**: Build redundancy and diversity into all systems.
 
-### Our Opportunities
-- Year-round growing season
-- Abundant solar energy
-- Rich biodiversity
-- Strong community networks
-- Growing awareness and action
+### 6. Local Attunement
+Life adapts to place:
+- Cacti in deserts, mangroves in estuaries
+- Each organism suited to its niche
+- Solutions that work *here*
 
-## Practicing Bioregional Design
+**Design implication**: This is [[Bioregional Design]]—adapt to context, don't impose templates.
 
-At [[Regenerate Tampa Bay]], we explore bioregional design through:
+## Learning to See Patterns
 
-**[[Learning from Nature]]**
-Observing how local ecosystems solve problems—water management, cooling, nutrient cycling, resilience.
+Pattern literacy is a skill we can develop:
 
-**[[Community Gatherings]] in Place**
-Meeting at farms, preserves, and natural areas to deepen our relationship with the land.
+### Observe Nature Directly
+- Sit with a tree and notice its patterns
+- Follow water through your landscape  
+- Watch how ecosystems respond to disturbance
+- Observe seasonal changes
 
-**Local Knowledge Sharing**
-Connecting farmers, gardeners, ecologists, and land stewards to share what works *here*.
+### Ask Pattern Questions
+- What pattern am I seeing?
+- Where else does this pattern appear?
+- What does this pattern accomplish?
+- How might I apply this pattern?
 
-**Asking Place-Based Questions**
-- What native plants attract our local pollinators?
-- How can we capture our intense summer rains?
-- What building designs keep us cool without excessive AC?
-- How do we prepare for sea level rise?
+### Study [[Biomimicry]]
+Learn from specific examples:
+- How do termite mounds regulate temperature?
+- How do forests manage water?
+- How do coral reefs create structure?
+- How do mycorrhizal networks share resources?
 
-## The Bioregional Vision
+### Practice [[Living Systems Thinking]]
+See the relationships and feedback loops, not just isolated parts.
 
-Imagine a Tampa Bay where:
-- Every neighborhood understands its watershed
-- Food comes from nearby farms using regenerative practices
-- Buildings are designed for our climate, not copied from elsewhere
-- Economic prosperity flows from enhancing ecosystem health
-- Children grow up knowing the native species and seasonal cycles
-- Development works *with* rather than against natural patterns
+## Patterns in Tampa Bay
 
-This is [[Regenerative Culture]] expressed through place.
+Our [[Tampa Bay Ecosystems]] demonstrate these patterns:
+
+**Cycles**: Wet/dry seasons, tidal rhythms, hurricane disturbance/renewal  
+**Networks**: Watershed systems, mangrove root networks, migratory bird routes  
+**Edges**: Coastal transition zones, ecotones between ecosystems  
+**Diversity**: Rich biodiversity from land to sea  
+**Resilience**: Systems that have weathered millions of years of change
+
+## From Pattern Literacy to Regenerative Design
+
+When we become literate in life's patterns, we can:
+- Design food systems that mimic forest ecosystems
+- Create water management that follows watershed patterns
+- Build communities that function like healthy ecosystems
+- Develop economies based on circular flows, not linear extraction
+
+This is how we move toward [[Regenerative Culture]]—by learning to read the patterns that sustain life and applying them in all we design.
+
+## Practice Together
+
+At [[Regenerate Tampa Bay]], we develop pattern literacy through:
+- [[Learning from Nature]] walks and observations
+- Hands-on workshops applying patterns  
+- [[Community Gatherings]] where we explore patterns together
+- Sharing what we notice in our [[bioregion]]
 
 ## Explore Further
-- [[Living Systems Thinking]] - Understanding ecological relationships
-- [[Pattern Literacy]] - Reading nature's designs
-- [[Tampa Bay Ecosystems]] - Our local ecological context
-- [[Native Species Guide]] - Flora and fauna of our bioregion
-- [[Community Gatherings]] - Learning from place together
-```
-
----
+- [[Biomimicry]] - Specific examples of learning from nature
+- [[Living Systems Thinking]] - Understanding relationships
+- [[Bioregional Design]] - Applying patterns to place
+- [[Daniel Christian Wahl]] - Teacher of pattern literacy
+- [[Tampa Bay Ecosystems]] - Patterns in our region

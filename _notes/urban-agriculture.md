@@ -379,6 +379,6 @@ This is [[Regenerative Culture]] in practice: participating in the web of life b
 ---
 
 *This guide will continue to grow.*
-```
+
 
 ---

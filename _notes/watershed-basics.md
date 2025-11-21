@@ -2,380 +2,284 @@
 title: Watershed Basics
 ---
 
-**Urban agriculture** brings food production into cities—transforming vacant lots, rooftops, balconies, and yards into productive landscapes that nourish people, build community, and regenerate ecosystems.
+A **watershed** is all the land that drains to a common water body; a creek, river, lake, bay, or ocean. Understanding watersheds is fundamental to [[Bioregional Design]] and [[Regenerative Culture]].
 
-In Tampa Bay, urban agriculture is part of [[Regenerative Culture]]—creating resilient local food systems adapted to our [[bioregion]].
+## What is a Watershed?
 
-## Why Urban Agriculture Matters
+Imagine a bowl. Rain that falls inside the bowl all flows to the same place-the bottom. That's a watershed.
 
-### Food Security
-- Reduces dependence on distant supply chains
-- Provides fresh, nutrient-dense food
-- Accessible to more people
-- Resilient during disruptions (hurricanes, pandemics)
+**Key Concept**: Watersheds are defined by topography (high and low points), not political boundaries. A watershed is a natural unit—a living system that water connects.
 
-### Climate Action
-- Reduces food miles (transportation emissions)
-- Sequesters carbon in soil
-- Cools urban heat islands
-- Captures stormwater
+### We All Live in a Watershed
 
-### Community---
+No matter where you are, you're in a watershed. Every action that affects water- from applying fertilizer to washing your car-ripples downstream through the watershed.
 
-## File 13: `_notes/native-species-guide.md`
+## Tampa Bay Watershed
 
-```markdown
----
-title: Native Species Guide
----
-
-The native species of the Tampa Bay bioregion are our neighbors, teachers, and indicators of ecosystem health. Learning to recognize and support them is essential to [[Bioregional Design]].
-
-## Why Native Species Matter
-
-**Ecological Relationships**
-Native species have co-evolved for thousands of years, creating intricate relationships:
-- Plants adapted to our soils, rainfall, and pollinators
-- Animals evolved with these specific plants
-- Fungi, bacteria, and insects form underground networks
-- Each species supports dozens of others
-
-**Resilience**
-Natives are adapted to:
-- Our seasonal wet/dry cycles
-- Summer heat and humidity
-- Hurricane and storm disturbance
-- Periodic fire in some ecosystems
-- Local soil conditions
-
-**Cultural Connection**
-These species have sustained human communities for millennia. Learning their names and relationships helps us become native to place.
-
-## Keystone Species
-
-Some species create habitat and conditions that many others depend on:
-
-### Gopher Tortoise
-*Gopherus polyphemus*
-
-**The Ecosystem Engineer**
-- Digs burrows up to 40 feet long
-- Over 350 species use their burrows (snakes, frogs, insects, mammals)
-- Burrows provide shelter from fire, heat, and predators
-- Grazes on wiregrass, maintaining open pine flatwoods
-
-**Status**: Threatened  
-**Habitat**: Pine flatwoods, scrub, dry prairies  
-**What they need**: Sandy, well-drained soils; native groundcover; no development
-
-*Lesson*: One species can support hundreds. Protect the keystone, protect the community.
-
----
-
-### Longleaf Pine
-*Pinus palustris*
-
-**The Foundation Tree**
-- Once dominated 90 million acres across the Southeast
-- Now less than 3% remains
-- Fire-adapted with thick bark and grass stage
-- Supports the most biodiverse ecosystem outside the tropics
-- Provides habitat for red-cockaded woodpeckers, gopher tortoises, hundreds of plant species
-
-**Status**: Endangered ecosystem  
-**Habitat**: Well-drained sandy soils  
-**What it needs**: Periodic fire (every 2-5 years), full sun
-
-*Lesson*: Foundation species create entire ecosystems. Restore the foundation, restore the web.
-
-## Native Plants for Tampa Bay Gardens
-
-### Canopy Trees
-
-**Live Oak** (*Quercus virginiana*)
-- Evergreen, spreading crown
-- Provides cooling shade
-- Supports 500+ species of moths and butterflies
-- Acorns feed wildlife
-- Hurricane-resistant
-- Plant in sun to part shade
-
-**Cabbage Palm** (*Sabal palmetto*)
-- Florida's state tree
-- Berries feed birds and mammals
-- Provides nesting sites
-- Tolerates salt spray
-- Plant in sun to part shade
-
-**Slash Pine** (*Pinus elliottii*)
-- Native pine for wetter sites
-- Important for pine flatwoods restoration
-- Seeds feed birds
-- Provides structure for ecosystems
-- Plant in full sun
-
-### Understory & Shrubs
-
-**Beautyberry** (*Callicarpa americana*)
-- Vibrant purple berries in fall
-- Important food source for migrating birds
-- Grows 4-6 feet
-- Part shade to sun
-- Deciduous
-
-**Firebush** (*Hamelia patens*)
-- Bright red-orange tubular flowers
-- Hummingbird and butterfly magnet
-- Blooms year-round in South Florida
-- Grows 4-8 feet
-- Sun to part shade
-- Semi-evergreen
-
-**Coontie** (*Zamia integrifolia*)
-- Ancient cycad, living fossil
-- Only host plant for Atala butterfly
-- Low-growing, evergreen
-- Extremely drought-tolerant
-- Shade to part sun
-- Seeds are toxic (do not eat)
-
-**Saw Palmetto** (*Serenoa repens*)
-- Groundcover palm
-- Important wildlife habitat
-- Berries feed birds and mammals
-- Fire-adapted
-- Sun to shade
-- Slow-growing, long-lived
-
-### Groundcovers & Grasses
-
-**Sunshine Mimosa** (*Mimosa strigillosa*)
-- Native groundcover
-- Nitrogen-fixing legume
-- Pink puffball flowers
-- Attracts pollinators
-- Great lawn alternative
-- Sun to part shade
-
-**Muhly Grass** (*Muhlenbergia capillaris*)
-- Stunning pink plumes in fall
-- Clumping grass
-- Low water needs
-- Full sun
-- Provides bird seed
-
-**Coralbean** (*Erythrina herbacea*)
-- Vibrant red tubular flowers
-- Hummingbird plant
-- Dies back in winter
-- Returns from roots
-- Full sun to part shade
-- Seeds are toxic
-
-### Vines
-
-**Coral Honeysuckle** (*Lonicera sempervirens*)
-- Native honeysuckle (non-invasive!)
-- Red tubular flowers
-- Hummingbird favorite
-- Evergreen
-- Sun to part shade
-- Host plant for spring azure butterfly
-
-**Passionflower** (*Passiflora incarnata*)
-- Intricate purple flowers
-- Host plant for Gulf fritillary butterfly
-- Edible fruit (maypop)
-- Vigorous grower
-- Full sun
-- Dies back in winter, returns from roots
-
-## Native Animals to Know
-
-### Birds
-
-**Roseate Spoonbill** (*Platalea ajaja*)
-- Pink wading bird with spoon-shaped bill
-- Feeds in shallow estuaries
-- Indicator of ecosystem health
-- Nests in mangrove islands
-- Watch for them in Tampa Bay
-
-**Wood Stork** (*Mycteria americana*)
-- Large white wading bird
-- Federally threatened
-- Depends on seasonal wetland cycles
-- Sensitive to water level changes
-- Nests colonially in cypress swamps
-
-**Florida Scrub-Jay** (*Aphelocoma coerulescens*)
-- Only bird species endemic to Florida
-- Depends on scrub habitat
-- Threatened by habitat loss
-- Buries acorns (plants oak forests!)
-- Family groups help raise young
-
-### Pollinators
-
-**Zebra Longwing** (*Heliconius charithonia*)
-- Florida's state butterfly
-- Black with yellow stripes
-- Long-lived for a butterfly (several months)
-- Host plant: passionflower
-- Roosts communally at night
-
-**Gulf Fritillary** (*Agraulis vanillae*)
-- Bright orange butterfly
-- Host plant: passionflower
-- Common in gardens
-- Beautiful silver spots underneath
-- Multiple generations per year
-
-**Atala Butterfly** (*Eumaeus atala*)
-- Stunning black with blue spots
-- Nearly extinct, now recovering
-- Only host plant: coontie
-- Toxic to predators
-- Feeds on coontie cycad
-
-### Reptiles & Amphibians
-
-**Eastern Indigo Snake** (*Drymarchon couperi*)
-- Federally threatened
-- Longest native snake (up to 8 feet)
-- Non-venomous, docile
-- Uses gopher tortoise burrows
-- Indicator of healthy ecosystems
-
-**Gopher Frog** (*Lithobates capito*)
-- Lives in gopher tortoise burrows
-- Depends on seasonal wetlands for breeding
-- Declining due to habitat loss
-- Indicator of wetland health
-
-### Marine & Coastal
-
-**Florida Manatee** (*Trichechus manatus latirostris*)
-- Gentle marine mammal
-- Feeds on seagrass
-- Seeks warm water in winter ([[springs]], power plants)
-- Threatened by boat strikes
-- Indicator of seagrass health
-
-**Bottlenose Dolphin** (*Tursiops truncatus*)
-- Common in Tampa Bay
-- Resident populations with home ranges
-- Complex social structures
-- Indicator of bay health
-- Watch from shore or responsible tour boats
-
-## Creating Native Habitat
-
-### In Your Yard
-
-**Replace lawn with native groundcovers**
-- Sunshine mimosa
-- Beach sunflower
-- Muhly grass meadows
-
-**Plant layers like a forest**
-- Canopy trees (oak, palm)
-- Understory (beautyberry, firebush)
-- Groundcover (ferns, coontie)
-- Vines (coral honeysuckle)
-
-**Provide water**
-- Birdbath with fresh water
-- Small pond for frogs
-- Shallow edges for butterflies
-
-**Leave some "mess"**
-- Dead wood for beetles
-- Leaf litter for insects
-- Seed heads for birds
-- Bare sand for ground-nesting bees
-
-### In Your Community
-
-**Support native habitat corridors**
-- Connect green spaces
-- Protect remaining natural areas
-- Restore degraded land
-
-**Remove invasives**
-- Brazilian pepper
-- Melaleuca
-- Air potato
-- Torpedo grass
-
-**Educate neighbors**
-- Share native plants
-- Teach about keystone species
-- Build a culture of care
-
-## Observing Native Species
-
-Practice [[Learning as Nature]] by:
-
-**Keeping a nature journal**
-- What species did you see today?
-- What were they doing?
-- What habitat were they in?
-- What season is it?
-
-**Learning scientific and common names**
-- Names help us remember and notice
-- Connect with place through language
-
-**Noticing relationships**
-- Which butterflies visit which flowers?
-- Which birds eat which seeds?
-- Who lives in gopher tortoise burrows?
-
-**Tracking phenology**
-- When do oaks bloom?
-- When do spoonbills arrive?
-- When does beautyberry fruit?
-
-## Resources for Learning
-
-**iNaturalist App**
-- Free species identification
-- Contribute to citizen science
-- Connect with local naturalists
-
-**Local Nature Centers**
-- Boyd Hill Nature Preserve
-- Weedon Island Preserve
-- Sawgrass Lake Park
-- Brooker Creek Preserve
-
-**Native Plant Sales**
-- Florida Native Plant Society chapters
-- County extension offices
-- Local native nurseries
-- Spring Plant Festival St. Pete Walter Fuller Park
-
-## The Web of Life
-
-Every native species is part of an intricate web:
-- Plants feed caterpillars
-- Caterpillars become butterflies
-- Butterflies pollinate flowers
-- Seeds feed birds
-- Birds spread seeds
-- Everything is connected
-
-When we plant natives, we're not just adding plants—we're restoring relationships that have evolved over millennia.
+The Tampa Bay watershed includes:
+- **Four major rivers**: Hillsborough, Alafia, Little Manatee, Manatee
+- **Dozens of smaller creeks** and tributaries
+- **Springs** that feed into rivers
+- **Wetlands** that filter and store water
+- **The bay itself** - the final destination
+- **Over 2 million people** living in the watershed
 
+### How It Works
 
+**Uplands** (inland areas)
+- Rain falls on land
+- Some soaks into soil (infiltration) --> recharges aquifer
+- Some flows over surface (runoff) --> heads downhill
+
+**Streams and Rivers**
+- Collect runoff from entire watershed
+- Carry water and everything in it downstream
+- Provide wildlife corridors and habitat
+
+**Wetlands**
+- Act as natural filters
+- Slow water down, reducing flooding
+- Capture sediment and pollutants
+- Store water like a sponge
+
+**The Bay**
+- Receives everything from upstream
+- Estuarine ecosystem (salt + fresh water)
+- Incredibly productive nursery for marine life
+- Reflects the health of entire watershed
+
+## Why Watersheds Matter
+
+### 1. Everything Is Connected
+
+What happens upstream affects everything downstream:
+- Fertilizer in Lutz ends up in Tampa Bay
+- Wetland destruction in Plant City increases flooding in Tampa
+- Development in the headwaters changes flow patterns throughout
+
+**There is no "away."** In a watershed, "away" is just downstream.
+
+### 2. Water Quality = Ecosystem Health
+
+Clean water supports:
+- Healthy seagrass beds (oxygen, fish habitat)
+- Oyster reefs (natural water filters)
+- Mangrove forests (nursery grounds)
+- Entire food webs from plankton to dolphins
+
+Poor water quality causes:
+- Algae blooms (red tide, blue-green algae)
+- Seagrass die-off (loss of habitat)
+- Fish kills
+- Beach closures
+
+### 3. Watersheds Are Living Systems
+
+A watershed functions like an organism:
+- **Headwaters** = lungs (oxygen and birth of flow)
+- **Streams** = arteries (transporting resources)
+- **Wetlands** = kidneys (filtering and cleaning)
+- **Aquifer** = reservoir (long-term storage)
+- **Bay** = heart (cycling nutrients)
+
+When any part is damaged, the whole system suffers.
+
+## Watershed Health Issues
+
+### Stormwater Runoff
+
+**Problem**: Paved surfaces prevent water from soaking into soil
+- Water rushes off roads, parking lots, roofs
+- Picks up pollutants: oil, fertilizer, pesticides, trash
+- Floods downstream areas
+- Delivers pollution directly to waterways
+
+**Volume matters**: A 1-acre parking lot generates 16x more runoff than 1-acre forest.
+
+### Nutrient Pollution
+
+**Problem**: Excess nitrogen and phosphorus (from fertilizers, septic systems, sewage)
+- Causes algae blooms
+- Depletes oxygen when algae dies
+- Creates "dead zones"
+- Harms seagrass and marine life
+
+**Source**: Lawns, conventional agriculture, leaky infrastructure, pet waste
+
+### Habitat Loss
+
+**Problem**: Wetlands, floodplains, and riparian buffers destroyed for development
+- Natural water storage eliminated --> more flooding
+- Natural filtration lost --> worse water quality
+- Wildlife corridors broken --> species decline
+
+**Historic loss**: Tampa Bay area has lost over 90% of original wetlands.
+
+### Altered Hydrology
+
+**Problem**: Channelizing streams, draining wetlands, overdrawing aquifer
+- Natural flow patterns disrupted
+- Springs declining or going dry
+- Saltwater intrusion into aquifer
+- Loss of seasonal flooding that ecosystems depend on
+
+## Regenerative Watershed Practices
+
+### Slow, Spread, Sink
+
+Nature's approach to water management:
+- **Slow** water down (don't rush it off the land)
+- **Spread** it across landscape (not channelize it)
+- **Sink** it into soil (infiltration and aquifer recharge)
+
+
+This mimics how healthy [[Tampa Bay Ecosystems|wetlands and forests]] manage water.
+
+### At Home
+
+**Reduce runoff:**
+- Rain gardens to capture roof water
+- Permeable surfaces (no solid concrete everywhere)
+- Swales that slow and spread water
+- Disconnect downspouts from storm drains
+
+**Reduce pollution:**
+- No fertilizers or pesticides (especially near water)
+- Scoop pet waste
+- Maintain septic systems
+- Use rain barrels to reduce irrigation
+- Planting appropriate native plants at the threshold of lakefronts
+
+**Increase infiltration:**
+- Plant native trees and shrubs (deep roots)
+- Reduce lawn (compacted, shallow roots)
+- Mulch to protect soil
+- Never pave more than necessary
+
+### In Community
+
+**Protect what remains:**
+- Conserve wetlands and floodplains
+- Protect riparian buffers (vegetation along waterways)
+- Preserve natural areas
+
+**Restore what's lost:**
+- Daylighting buried streams
+- Restoring wetlands
+- Reconnecting floodplains
+- Removing dams and channelization
+
+**Green infrastructure:**
+- Bioswales instead of storm drains
+- Rain gardens in parking lots
+- Green roofs and permeable pavement
+- Community-scale water harvesting
+
+## Observing Your Watershed
+
+Practice [[Learning from Nature]] by:
+
+**Following the flow:**
+- Where does water go when it rains?
+- Where does runoff leave your property?
+- Where are natural drainage ways?
+- What stream or river is nearest?
+
+**Noticing patterns:**
+- Where does water pool?
+- Where is soil eroded?
+- Where is vegetation lush? (water presence)
+- Where are natural terraces? (old floodplains)
+
+**Asking questions:**
+- Is this stream healthy?
+- Where does my stormwater end up?
+- What's the source of this spring?
+- How has this landscape changed?
+
+### Find Your Watershed
+
+Tools and groups to help discover your watershed:
+- **[Tampa Bay Estuary Program](https://tbep.org/about-the-bay/)**: Context building for our watershed. Volunteer opportunities available
+- **[Tampa Bay Water Atlas - USF](https://tampabay.wateratlas.usf.edu/)**: as the name suggests, a water atlas :)
+- **USGS StreamStats**: Maps showing stream data
+- **[Tampa Bay Watch](https://www.tampabaywatch.org/)**: Watershed education and restoration with volunter opportunities
+- **Local creek cleanups**: Get hands-on with your watershed
+
+## Watershed Thinking
+
+**Watershed perspective** changes how we see:
+
+**Instead of**: My property, my responsibility  
+**Think**: My watershed, our collective responsibility
+
+**Instead of**: Water comes from tap, leaves down drain  
+**Think**: Water flows through living systems I'm part of
+
+**Instead of**: This puddle is annoying  
+**Think**: Where is this water going? What does it carry?
+
+This is [[Living Systems Thinking]] applied to water.
+
+## The Watershed as Bioregion
+
+Many define [[bioregions]] by watersheds:
+- Natural boundaries
+- Shared water = shared fate
+- Common ecological conditions
+- Historical human settlements along waterways
+
+The Tampa Bay watershed could be understood as our bioregion—the land and people connected by water flowing to the bay.
+
+## Regenerating Tampa Bay Watershed
+
+Imagine a watershed where:
+- Every drop of rain is seen as precious
+- Water that falls infiltrates and recharges
+- Wetlands are restored and protected
+- Rivers run clear and full of life
+- The bay teems with seagrass and fish
+- Communities understand their connection to water
+
+This is [[Bioregional Design]] for water—working with natural patterns to create health for the whole system.
+
+## Take Action
+
+**Learn your watershed:**
+- What watershed are you in?
+- Where does your water come from?
+- Where does your stormwater go?
+
+**Observe water:**
+- Watch where it flows
+- Notice what it carries
+- See the patterns
+
+**Reduce your impact:**
+- Slow, spread, sink water on your land
+- Eliminate lawn chemicals
+- Protect natural areas
+
+**Join restoration:**
+- Waterbody cleanups:
+    - https://www.soulinc.org/
+- Wetland restoration
+- Native plantings along waterways
+- Advocacy for watershed protection:
+    - https://www.floridaspringscouncil.org/
+- Clubs: 
+    - [St. Pete Eco Club](https://allevents.in/st-petersburg/st-pete-eco-club-monthly-meeting/100001628500933129)
+        - [Instagram](https://www.instagram.com/stpeteecoclub/)
 
 ## Explore Further
-- [[Tampa Bay Ecosystems]] - Where these species live
-- [[Learning from Nature]] - How to observe and connect
-- [[Bioregional Design]] - Designing with native species
-- [[Biomimicry]] - Learning from specific adaptations
-- [[Pattern Literacy]] - Understanding ecological relationships
-
+- [[Tampa Bay Ecosystems]] - Wetlands, rivers, springs, and bay
+- [[Bioregional Design]] - Designing with watersheds
+- [[Learning from Nature]] - Observing water patterns
+- [[Living Systems Thinking]] - Understanding connections
+- [[Community Gatherings]] - Watershed education and action
 
 ---
+
+*"Thousands have lived without love, not one without water." - W.H. Auden*
+
+Water connects us all. Understanding watersheds helps us understand our place in the living world.

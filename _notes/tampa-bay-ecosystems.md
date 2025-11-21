@@ -198,10 +198,10 @@ Imagine a Tampa Bay where:
 - Every neighborhood has native habitat corridors
 - Water flows clean from springs to bay
 - Mangroves and marshes expand as seas rise
-- Children grow up knowing gopher tortoises and scrub jays
+- Children grow up knowing how to identify the plants and critters in their own backyard.
 - Our economy enhances ecosystem health
 
-This is [[Bioregional Design]]—creating human systems that participate in the regeneration of place.
+[[Bioregional Design]] -- creating human systems that participate in the regeneration of place.
 
 ## Explore Further
 - [[Bioregional Design]] - Designing with our ecosystems

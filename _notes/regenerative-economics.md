@@ -400,9 +400,6 @@ This question is at the heart of [[Regenerative Culture]].
 
 ---
 
-*"Economics is too important to leave to economists. It's about how we organize ourselves to meet our needs while caring for our home." - adapted from Buckminster Fuller*
-
-Join us in experimenting with regenerative economic relationships at [[Community Gatherings]] or [[Join Us]] in building local economic alternatives.
-```
+*"Economics is too important to leave to economists. It's about how we organize > ourselves to meet our needs while caring for our home." - adapted from Buckminster Fuller*
 
 ---
