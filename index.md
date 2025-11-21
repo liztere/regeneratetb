@@ -50,7 +50,7 @@ Click any [[linked term]] to explore that concept. At the bottom of each page, y
 
 ---
 
-*This garden is tended as of 11/2025 by Liztere. [Contact](mailto:liztere@tuta.io) or [[Join]] to participate.*
+*This garden is tended as of 11/2025 by Liztere.*
 
 <strong>Recently updated notes</strong>
 
