@@ -68,13 +68,12 @@ You don't need to wait for an official gathering. Regeneration begins wherever y
 
 ---
 
-*Whatever gifts you bring, whatever questions you carry, whatever yearning you hold for a more beautiful world, there's a place for you in this work.*
 
 **You're welcome to help tend this garden. [[Submit a resource]]**
 
 
-📧 **Email:** regeneratetb@tuta.io
-📍 **Location:** Tampa Bay, Florida
+**Email:** regeneratetb[@]tuta.io
+**Location:** Tampa Bay, Florida
 
 ## Related Notes
 - [[Community Gatherings]]
