@@ -50,7 +50,7 @@ Click any [[linked term]] to explore that concept. At the bottom of each page, y
 
 ---
 
-*This garden is tended as of 11/2025 by Liztere.*
+*Current # of stewards for this garden as of 02-2026: 1. [Contact](regeneratetb[at]tuta.io) or [[Join Us]] to participate.*
 
 <strong>Recently updated notes</strong>
 
