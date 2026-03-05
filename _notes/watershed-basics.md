@@ -4,11 +4,14 @@ title: Watershed Basics
 
 A **watershed** is all the land that drains to a common water body; a creek, river, lake, bay, or ocean. Understanding watersheds is fundamental to [[Bioregional Design]] and [[Regenerative Culture]].
 
+Explore the map: https://maps.wateratlas.usf.edu/tampabay/
+
+
 ## What is a Watershed?
 
 Imagine a bowl. Rain that falls inside the bowl all flows to the same place-the bottom. That's a watershed.
 
-**Key Concept**: Watersheds are defined by topography (high and low points), not political boundaries. A watershed is a natural unit—a living system that water connects.
+Watersheds are defined by topography (high and low points), not political boundaries. A watershed is a natural unit--a living system that water connects.
 
 ### We All Live in a Watershed
 
@@ -53,11 +56,10 @@ The Tampa Bay watershed includes:
 ### 1. Everything Is Connected
 
 What happens upstream affects everything downstream:
-- Fertilizer in Lutz ends up in Tampa Bay
+- Fertilizer in Lutz ends up in the Bay
 - Wetland destruction in Plant City increases flooding in Tampa
 - Development in the headwaters changes flow patterns throughout
 
-**There is no "away."** In a watershed, "away" is just downstream.
 
 ### 2. Water Quality = Ecosystem Health
 
@@ -94,7 +96,7 @@ When any part is damaged, the whole system suffers.
 - Floods downstream areas
 - Delivers pollution directly to waterways
 
-**Volume matters**: A 1-acre parking lot generates 16x more runoff than 1-acre forest.
+> A 1-acre parking lot generates 16x more runoff than 1-acre forest.
 
 ### Nutrient Pollution
 
@@ -233,7 +235,7 @@ The Tampa Bay watershed could be understood as our bioregion—the land and peop
 
 ## Regenerating Tampa Bay Watershed
 
-Imagine a watershed where:
+Goals: 
 - Every drop of rain is seen as precious
 - Water that falls infiltrates and recharges
 - Wetlands are restored and protected
@@ -241,7 +243,7 @@ Imagine a watershed where:
 - The bay teems with seagrass and fish
 - Communities understand their connection to water
 
-This is [[Bioregional Design]] for water—working with natural patterns to create health for the whole system.
+See the restoration efforts taken place so far: https://tampabay.wateratlas.usf.edu/restoration/
 
 ## Take Action
 
@@ -261,9 +263,9 @@ This is [[Bioregional Design]] for water—working with natural patterns to crea
 - Protect natural areas
 
 **Join restoration:**
-- Waterbody cleanups:
+- Waterbody restorations:
     - https://www.soulinc.org/
-- Wetland restoration
+    - https://tampabay.wateratlas.usf.edu/news/events/
 - Native plantings along waterways
 - Advocacy for watershed protection:
     - https://www.floridaspringscouncil.org/
