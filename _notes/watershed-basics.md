@@ -4,7 +4,7 @@ title: Watershed Basics
 
 A **watershed** is all the land that drains to a common water body; a creek, river, lake, bay, or ocean. Understanding watersheds is fundamental to [[Bioregional Design]] and [[Regenerative Culture]].
 
-Explore the map: https://maps.wateratlas.usf.edu/tampabay/
+Explore the map: [https://maps.wateratlas.usf.edu/tampabay/](https://maps.wateratlas.usf.edu/tampabay/)
 
 
 ## What is a Watershed?
@@ -266,7 +266,5 @@ See the restoration efforts taken place so far: [https://tampabay.wateratlas.usf
 - [[Community Gatherings]] - Watershed education and action
 
 ---
-
-*"Thousands have lived without love, not one without water." - W.H. Auden*
 
 Water connects us all. Understanding watersheds helps us understand our place in the living world.
