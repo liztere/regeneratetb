@@ -11,7 +11,7 @@ Welcome to the Regenerate Tampa Bay knowledge garden: a living, evolving collect
 
 ## What is Regeneration?
 
-**Regeneration goes beyond sustainability.** While sustainability asks "how do we do less harm?", regeneration asks "how can we participate in the healing and thriving of all life?"
+**Regeneration goes beyond sustainability.** While sustainability asks "how do we do less harm?", regeneration asks "how can we participate in the healing and thriving of all life?" More importantly, regeneration is not a concept. It is a fundamental process of life. 
 
 Key inspirational spokespeople for regeneration and systems thinking: Lyla June, Donella Meadows, Daniel Christian Wahl, Fritjof Capra, Paul Hawken, and countless indigenous cultures. This garden attempts to aggregate the principles, practices, and organizations with similar goals to that enhance rather than degrade the health of this living planet to educate the Tampa Bay community and provide a portal to organize for tangible change.
 
