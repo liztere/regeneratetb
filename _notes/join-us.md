@@ -2,8 +2,6 @@
 title: Join Us
 ---
 
-# Join Us
-
 Regeneration is a collective practice. And a practice we all desperately need to return to during this time of rapid degeneration. We'd love to have you as part of this growing network.
 
 ## Stay Connected
@@ -58,7 +56,6 @@ Regenerative cultures thrive on gift exchange. What do you have to offer?
 - Help with organizing or communications
 - Simply show up and participate
 
-**Contact us:** [regeneratetb@tuta.io](mailto:regeneratetb@tuta.io)
 
 ### 4. Connect With Others
 We're building a network of regenerative practitioners across the Tampa Bay region.
