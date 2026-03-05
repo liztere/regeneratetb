@@ -208,20 +208,6 @@ Tools and groups to help discover your watershed:
 - **[Tampa Bay Watch](https://www.tampabaywatch.org/)**: Watershed education and restoration with volunter opportunities
 - **Local creek cleanups**: Get hands-on with your watershed
 
-## Watershed Thinking
-
-**Watershed perspective** changes how we see:
-
-**Instead of**: My property, my responsibility  
-**Think**: My watershed, our collective responsibility
-
-**Instead of**: Water comes from tap, leaves down drain  
-**Think**: Water flows through living systems I'm part of
-
-**Instead of**: This puddle is annoying  
-**Think**: Where is this water going? What does it carry?
-
-This is [[Living Systems Thinking]] applied to water.
 
 ## The Watershed as Bioregion
 
@@ -231,7 +217,6 @@ Many define [[bioregions]] by watersheds:
 - Common ecological conditions
 - Historical human settlements along waterways
 
-The Tampa Bay watershed could be understood as our bioregion—the land and people connected by water flowing to the bay.
 
 ## Regenerating Tampa Bay Watershed
 
