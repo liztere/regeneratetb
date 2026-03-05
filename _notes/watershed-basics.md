@@ -228,7 +228,7 @@ Goals:
 - The bay teems with seagrass and fish
 - Communities understand their connection to water
 
-See the restoration efforts taken place so far: https://tampabay.wateratlas.usf.edu/restoration/
+See the restoration efforts taken place so far: [https://tampabay.wateratlas.usf.edu/restoration/](https://tampabay.wateratlas.usf.edu/restoration/)
 
 ## Take Action
 
@@ -249,11 +249,11 @@ See the restoration efforts taken place so far: https://tampabay.wateratlas.usf.
 
 **Join restoration:**
 - Waterbody restorations:
-    - https://www.soulinc.org/
-    - https://tampabay.wateratlas.usf.edu/news/events/
+    - [SoUL Inc.](https://www.soulinc.org/)
+    - [Tampa Bay Water Atlas - Events](https://tampabay.wateratlas.usf.edu/news/events/)
 - Native plantings along waterways
 - Advocacy for watershed protection:
-    - https://www.floridaspringscouncil.org/
+    - [Florida Springs Council](https://www.floridaspringscouncil.org/)
 - Clubs: 
     - [St. Pete Eco Club](https://allevents.in/st-petersburg/st-pete-eco-club-monthly-meeting/100001628500933129)
         - [Instagram](https://www.instagram.com/stpeteecoclub/)
