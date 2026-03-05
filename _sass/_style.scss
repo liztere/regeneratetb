@@ -5,8 +5,12 @@ $color-border: hsl(0, 0%, 85%);
 $color-box-background: mix($color-primary, white, 4%);
 $border-radius: 4px;
 $font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial,
-  sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;
+  sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol; 
 
+ @font-face {
+  font-family: Caprice;
+  src: url(assets/fonts/Caprice.otf);
+ } 
 body {
   box-sizing: content-box;
   font-family: $font-family;
@@ -21,6 +25,11 @@ body {
   @media (min-width: 820px) {
     font-size: 1.2rem;
   }
+}
+
+b {
+  font-family: Caprice;
+  font-size: 1.9rem;
 }
 
 time {

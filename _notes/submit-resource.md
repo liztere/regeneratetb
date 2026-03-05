@@ -10,7 +10,7 @@ This helps us map the growing network of regenerative work in our [[bioregion]].
 
 ---
 
-<form name="resource-submission" method="POST" data-netlify="true" netlify-honeypot="bot-field" action="/thank-you">
+<form name="resource-submission" method="POST" data-netlify="true" netlify-honeypot="bot-field" action="/thank-you.md">
   <p style="display: none;">
     <label>Don't fill this out if you're human: <input name="bot-field" /></label>
   </p>
