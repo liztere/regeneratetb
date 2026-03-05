@@ -46,7 +46,6 @@ This is a **digital garden**, not a blog. Notes are:
 
 Click any [[linked term]] to explore that concept. At the bottom of each page, you'll see backlinks—other notes that reference this idea.
 
-**New to regenerative thinking?** Start with [[What is Regeneration]] or [[Daniel Christian Wahl]].
 
 ---
 
