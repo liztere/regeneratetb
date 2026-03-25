@@ -2,7 +2,7 @@
 title: Bioregional Design
 ---
 
-**Bioregional design** means creating solutions that are uniquely adapted to the ecological and cultural characteristics of a specific place—rather than imposing one-size-fits-all approaches.
+**Bioregional design** means creating solutions that are uniquely adapted to the ecological and cultural characteristics of a specific place rather than imposing one-size-fits-all approaches.
 
 ## What is a Bioregion?
 
@@ -25,7 +25,7 @@ Before designing anything, we must:
 - **Study** indigenous knowledge and long-term ecological history
 - **Understand** seasonal cycles, water flows, species relationships
 
-As [[Daniel Christian Wahl]] teaches through [[Pattern Literacy]], nature has already solved the problems we face—we just need to learn to read the patterns.
+nature has already solved the problems we face, we just need to learn to read the patterns!!
 
 ### 2. Design With Place, Not Against It
 
@@ -81,16 +81,15 @@ Create economic systems rooted in place:
 
 ## Practicing Bioregional Design
 
-At [[Regenerate Tampa Bay]], we explore bioregional design through:
 
 **[[Learning from Nature]]**
-Observing how local ecosystems solve problems—water management, cooling, nutrient cycling, resilience.
+Observing how local ecosystems solve problems: water management, cooling, nutrient cycling, resilience.
 
 **[[Community Gatherings]] in Place**
-Meeting at farms, preserves, and natural areas to deepen our relationship with the land.
+Meeting at preserves, and natural areas to deepen our relationship with the land.
 
 **Local Knowledge Sharing**
-Connecting farmers, gardeners, ecologists, and land stewards to share what works *here*.
+Connecting farmers, gardeners, ecologists, and land stewards to share what works here.
 
 **Asking Place-Based Questions**
 - What native plants attract our local pollinators?
@@ -100,15 +99,13 @@ Connecting farmers, gardeners, ecologists, and land stewards to share what works
 
 ## The Bioregional Vision
 
-Imagine a Tampa Bay where:
 - Every neighborhood understands its watershed
 - Food comes from nearby farms using regenerative practices
 - Buildings are designed for our climate, not copied from elsewhere
 - Economic prosperity flows from enhancing ecosystem health
 - Children grow up knowing the native species and seasonal cycles
-- Development works *with* rather than against natural patterns
+- Communities are less devestated by events like floods, droughts, and hurricanes.
 
-This is [[Regenerative Culture]] expressed through place.
 
 ## Explore Further
 - [[Living Systems Thinking]] - Understanding ecological relationships
@@ -116,7 +113,6 @@ This is [[Regenerative Culture]] expressed through place.
 - [[Tampa Bay Ecosystems]] - Our local ecological context
 - [[Native Species Guide]] - Flora and fauna of our bioregion
 - [[Community Gatherings]] - Learning from place together
-```
 
 ---
 

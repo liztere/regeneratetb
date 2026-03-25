@@ -22,7 +22,7 @@ Living systems thinking sees the world as an organism:
 Nothing exists in isolation. Every action ripples through networks of relationship. A decision about water affects soil, which affects plants, which affects pollinators, which affects food systems, which affects communities.
 
 ### 2. Emergence
-The whole is greater than the sum of its parts. Life, consciousness, culture—these emerge from relationships between simpler elements. You cannot predict or control emergence, only create conditions for it.
+The whole is greater than the sum of its parts. Life, consciousness, culture; these emerge from relationships between simpler elements. You cannot predict or control emergence, only create conditions for it.
 
 ### 3. Feedback Loops
 Living systems learn and self-regulate through feedback:
@@ -38,7 +38,6 @@ Every living system is simultaneously a whole unto itself and a part of larger w
 - An organism is a whole, and part of an ecosystem
 - An ecosystem is a whole, and part of a bioregion
 
-This is the pattern [[Daniel Christian Wahl]] calls us to recognize through [[Pattern Literacy]].
 
 ## Applying Living Systems Thinking
 
@@ -61,13 +60,13 @@ Our [[Community Gatherings]] weave together diverse voices, creating space for n
 
 ## The Living Web
 
-When we see through a systems lens, we recognize that we are not separate from nature—we are embedded within living systems at every scale. [[Regenerative Culture]] becomes the practice of learning to participate more wisely in the web of life.
+When we see through a systems lens, we recognize that we are not separate from nature; we are embedded within living systems at every scale. [[Regenerative Culture]] becomes the practice of learning to participate more wisely in the web of life.
 
 ## Explore Further
 - [[Pattern Literacy]] - Learning to read living systems
 - [[Bioregional Design]] - Applying systems thinking to place
 - [[Daniel Christian Wahl]] - Systems thinker and teacher
 - [[Biomimicry]] - Learning from nature's systems
-```
+
 
 ---

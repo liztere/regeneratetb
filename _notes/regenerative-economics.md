@@ -289,11 +289,7 @@ Some regenerative approaches work locally but challenge:
 
 ### Not a Return to Past
 
-Regenerative economics is not:
-- Going back to barter
-- Rejecting all technology
-- Romantic primitivism
-- Impossible in modern world
+Regenerative economics is not necessarily going back to completely to barter (though that certaintly is encouraged and fosters deeper community cohesion), nor is it rejecting all technology.
 
 It's **evolving forward**:
 - Using modern tools and knowledge
@@ -366,12 +362,7 @@ It's **evolving forward**:
 
 We're in the space between stories:
 - Old story: Extraction, competition, scarcity, growth
-- New story: Regeneration, cooperation, abundance, health
-
-Regenerative economics is the new story made real.
-
-As [[Daniel Christian Wahl]] writes:
-> "We cannot transform the economic system without transforming the cultural values and stories that sustain it."
+- New story: Regeneration, coooperation, abundance, health
 
 Economic transformation requires cultural transformation. This is why [[Regenerative Culture]] and regenerative economics are inseparable.
 
@@ -383,12 +374,10 @@ Economics is ultimately about **relationships**:
 - To future generations
 - To the more-than-human world
 
-Extractive economics treats these as transactions.  
-Regenerative economics honors these as relationships.
+Extractive economics treats these as transactions. Regenerative economics honors these as relationships.
 
 What kind of relationships do we want to create through our economic exchanges?
 
-This question is at the heart of [[Regenerative Culture]].
 
 ## Explore Further
 - [[Regenerative Culture]] - The cultural foundation

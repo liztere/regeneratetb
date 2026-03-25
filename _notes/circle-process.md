@@ -15,7 +15,7 @@ Circle is an ancient human practice of sitting together in a round formation whe
 - We speak and listen from the heart
 - Decisions emerge from the whole
 
-Circle has been used across cultures for millennia—around fires, in council lodges, in community gatherings. We're reclaiming this practice for regenerative community building.
+Circle has been used across cultures for millennia; around fires, in council lodges, in community gatherings. We're reclaiming this practice for regenerative community building.
 
 ## Core Principles
 
@@ -112,7 +112,7 @@ Circle creates witnesses to our experience:
 **Format**:
 - Inner circle (4-6 people) dialogues
 - Outer circle (everyone else) witnesses silently
-- Empty chair in inner circle—anyone from outer circle can join
+- Empty chair in inner circle; anyone from outer circle can join
 - When joining, someone else must leave
 
 **Why**: Allows focused conversation while including the collective, demonstrates that witnessing is participation
@@ -132,7 +132,7 @@ Circle creates witnesses to our experience:
 - Proposal evolves based on wisdom of circle
 - Continue until group finds unity
 
-**Why**: Visual consensus-building, honors dissent as wisdom, evolves proposals collaboratively
+**Why**: Visual consensus; building, honors dissent as wisdom, evolves proposals collaboratively
 
 ## Circle Roles
 
@@ -142,18 +142,17 @@ Holds the container:
 - Tracks time and energy
 - Ensures guidelines are followed
 - Protects the integrity of the circle
-- Doesn't dominate—serves the circle
+- Doesn't dominate
 
 ### Scribe (if needed)
 
 Captures key themes:
-- Not a transcript, but essence
+- Not a transcript
 - Patterns and insights that emerge
 - Decisions or commitments made
 
 ### Timekeeper (if needed)
 
-Tracks rounds and timing, alerts guardian
 
 ## Guidelines for Circle
 
@@ -174,24 +173,7 @@ Tracks rounds and timing, alerts guardian
 - Leaving and entering repeatedly
 - Dominating airtime
 
-## Circle at Regenerate Tampa Bay
 
-We use circle in our [[Community Gatherings]] to:
-
-**Create Belonging**
-When everyone's voice is heard, everyone belongs. Circle is how we weave community.
-
-**Practice [[Living Systems Thinking]]**
-Circle demonstrates that wisdom emerges from relationships, not individuals. The collective knows more than any one person.
-
-**Honor Diversity**
-Every perspective matters. Young and old, experienced and beginner, outspoken and quiet—all voices enrich the whole.
-
-**Slow Down**
-In a culture of speed and reaction, circle creates space for thoughtfulness, reflection, and emergence.
-
-**Build Trust**
-Being vulnerable in circle, being witnessed, witnessing others—these create bonds that sustain community.
 
 ## The Center
 
@@ -205,7 +187,7 @@ The center reminds us:
 - We're gathered around something larger than ourselves
 - There's a focal point beyond our individual egos
 - Beauty and intention matter
-- This is a threshold space—different from ordinary interaction
+- This is a threshold space. different from ordinary interaction
 
 ## Beyond the Circle
 
@@ -216,7 +198,6 @@ The skills we practice in circle ripple outward:
 - **Trusting emergence** in projects and planning
 - **Creating belonging** wherever we go
 
-Circle is not just a practice—it's a way of being in relationship.
 
 ## Starting Your Own Circle
 
@@ -234,7 +215,7 @@ As you practice, circle will teach you.
 
 ## The Deeper Pattern
 
-[[Daniel Christian Wahl]] reminds us that [[Regenerative Culture]] emerges from healthy relationships. Circle is a practice of relating:
+Circle is a practice of relating:
 - To ourselves (speaking truth)
 - To each other (deep listening)
 - To the collective (trusting emergence)

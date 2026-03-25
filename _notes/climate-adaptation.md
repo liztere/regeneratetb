@@ -2,7 +2,7 @@
 title: Climate Adaptation
 ---
 
-Climate change is not a distant future—it's happening now in Tampa Bay. **Climate adaptation** means preparing for and responding to these changes in ways that enhance rather than degrade resilience.
+Climate change is not a distant future; it's happening now in Tampa Bay. **Climate adaptation** means preparing for and responding to these changes in ways that enhance rather than degrade resilience.
 
 [[Regenerative Culture]] asks: How do we adapt in ways that restore ecological and social health?
 
@@ -200,11 +200,11 @@ Nature provides solutions:
 
 **Action**: Restore water quality. Reduce nutrient pollution. Active restoration projects.
 
-This is [[Biomimicry]] for climate adaptation—working with life's 3.8 billion years of solutions.
+A lot of these are examples [[Biomimicry]] for climate adaptation; working with life's 3.8 billion years of solutions.
 
 ## Social Adaptation
 
-Climate is not just an environmental issue—it's a justice issue.
+Climate is not just an environmental issue; it's a justice issue.
 
 ### Who's Most Vulnerable?
 - Low-income communities (less resources for adaptation)
@@ -244,7 +244,7 @@ Climate is not just an environmental issue—it's a justice issue.
 - Intergenerational exchange
 - Stories of adaptation and survival
 
-This is what [[Community Gatherings]] build—the social fabric that weathers storms.
+
 
 ## Psychological Adaptation
 
@@ -368,7 +368,7 @@ Climate change affects mental health:
 We can't control the climate, but we can participate wisely in systems adapting to it.
 
 **From Scarcity to Regeneration**
-Climate change is loss, yes. But adaptation can also restore what was degraded—healthier ecosystems, stronger communities, more just systems.
+Climate change is loss, yes. But adaptation can also restore what was degraded; healthier ecosystems, stronger communities, more just systems.
 
 **From Individual to Collective**
 No one person or household can adapt alone. Resilience is relational.
@@ -379,7 +379,6 @@ Decisions we make now affect the next 7 generations. Think like an ancestor.
 **From Human-Only to More-Than-Human**
 We adapt alongside all life. How does this choice affect the gopher tortoise? The mangrove forest? The spring?
 
-This is [[Living Systems Thinking]] for climate—seeing ourselves as part of systems adapting together.
 
 ## Tampa Bay 2040: A Regenerative Vision
 
@@ -420,7 +419,7 @@ Imagine a Tampa Bay that has adapted regeneratively:
 - Beauty and joy in transition
 - Hope grounded in action
 
-This is possible. Not certain, but possible.
+
 
 ## The Choice
 
@@ -445,7 +444,7 @@ Ask:
 
 Then start. Join [[Community Gatherings]]. Connect with others. [[Join Us]] in the work.
 
-Adaptation is not something we wait for—it's something we practice, together, now.
+Adaptation is not something we wait for; it's something we practice, together, now.
 
 ## Explore Further
 - [[Regenerative Culture]] - Cultures that enhance life
@@ -456,11 +455,7 @@ Adaptation is not something we wait for—it's something we practice, together, 
 - [[Living Systems Thinking]] - Understanding complex adaptation
 
 ---
-
-*"We cannot solve our problems with the same thinking we used when we created them." - Albert Einstein*
-
-Climate adaptation asks us to think differently—to design with nature, center equity, build community, and create the conditions for life to flourish.
-
-This is regenerative work.
+As our boy Albert once said,
+*"We cannot solve our problems with the same thinking we used when we created them." 
 
 ---

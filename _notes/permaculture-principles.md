@@ -2,7 +2,7 @@
 title: Permaculture Principles
 ---
 
-**Permaculture** is a design system for creating regenerative human habitats and food systems. The word comes from "permanent agriculture" and "permanent culture"—recognizing that sustainable food systems cannot exist without sustainable cultural systems.
+**Permaculture** is a design system for creating regenerative human habitats and food systems. The word comes from "permanent agriculture" and "permanent culture"; recognizing that sustainable food systems cannot exist without sustainable cultural systems.
 
 Permaculture gives us practical design principles for creating [[Regenerative Culture]] on the ground.
 
@@ -50,9 +50,9 @@ Share surplus and set limits to consumption:
 - Consume less
 - Return surplus to Earth and community
 
-*Fair share recognizes we live on a finite planet—enough for everyone's need, not everyone's greed.*
+*Fair share recognizes we live on a finite planet; enough for everyone's need, not everyone's greed.*
 
-These ethics align with [[Regenerative Culture]]—creating systems that enhance life for all.
+These ethics align with [[Regenerative Culture]]; creating systems that enhance life for all.
 
 ## The 12 Design Principles
 
@@ -65,7 +65,7 @@ These ethics align with [[Regenerative Culture]]—creating systems that enhance
 - Slow down and observe before acting
 - Nature reveals patterns when we pay attention
 - Understand the system before intervening
-- Every place is unique—learn from it
+- Every place is unique...learn from it
 
 This is [[Learning from Nature]] as first principle.
 
@@ -151,7 +151,7 @@ This is understanding feedback loops from [[Living Systems Thinking]].
 - Cycle everything back
 - Design for closed loops
 
-Nature has no concept of waste—everything is food for something else.
+Nature has no concept of waste; everything is food for something else.
 
 *In Tampa Bay*:
 - Compost food scraps --> soil --> food
@@ -167,7 +167,7 @@ Nature has no concept of waste—everything is food for something else.
 
 - Observe large patterns first
 - Details emerge from understanding pattern
-- [[Pattern Literacy]]—see patterns across scales
+- [[Pattern Literacy]]; see patterns across scales
 - Copy nature's patterns
 
 *Patterns in Tampa Bay*:
@@ -189,12 +189,6 @@ Design with these patterns, don't fight them.
 - Cooperation, not isolation
 - Each element supports multiple functions
 
-This is [[Living Systems Thinking]]—relationships create resilience.
-
-*In Tampa Bay*:
-- Chickens + garden: chickens eat pests, provide fertilizer, turn compost
-- Trees + house: shade reduces cooling costs, leaves mulch garden
-- [[Community Gatherings]] + learning + ecosystem: connections create resilience
 
 ---
 
@@ -355,7 +349,7 @@ Systems evolve:
 - No human management
 - [[Learning from Nature]] zone
 
-*Adapt zones to your scale—balcony, backyard, farm, or community.*
+*Adapt zones to your scale; balcony, backyard, farm, or community.*
 
 ## Permaculture Techniques for Tampa Bay
 
@@ -435,7 +429,7 @@ Systems evolve:
 
 ## Permaculture in Community
 
-Permaculture isn't just individual gardens—it's cultural design.
+Permaculture isn't just individual gardens; it's cultural design.
 
 ### Community Permaculture
 
@@ -491,7 +485,7 @@ In Tampa Bay, learn from:
 
 ## Permaculture as Regenerative Practice
 
-Permaculture is more than techniques—it's a way of thinking and being:
+Permaculture is more than techniques; it's a way of thinking and being:
 
 **Observe before acting** --> [[Learning from Nature]]  
 **Work with patterns** --> [[Pattern Literacy]]  

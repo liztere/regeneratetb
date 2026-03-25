@@ -2,7 +2,7 @@
 title: Pattern Literacy
 ---
 
-**Pattern literacy** is the ability to recognize patterns that sustain life across all scales—from cells to ecosystems to cultures—and apply those patterns in our designs.
+**Pattern literacy** is the ability to recognize patterns that sustain life across all scales; from cells to ecosystems to cultures, and apply those patterns in our designs.
 
 ## What Are Life-Sustaining Patterns?
 
@@ -19,9 +19,7 @@ These patterns appear everywhere life thrives.
 
 ## Why Pattern Literacy Matters
 
-[[Daniel Christian Wahl]] teaches that pattern literacy is essential for [[Regenerative Culture]]:
-
-> "By learning to recognize the patterns that connect, we can design with life rather than against it."
+Pattern literacy is essential for [[Regenerative Culture]]:
 
 When we're pattern literate, we can:
 - See the same organizing principles in forests, watersheds, and communities
@@ -37,7 +35,7 @@ Life moves in cycles, not straight lines:
 - Birth, growth, death, renewal
 - Inhale/exhale, systole/diastole
 
-**Design implication**: Create circular systems with no waste—outputs become inputs.
+**Design implication**: Create circular systems with no waste where outputs become inputs.
 
 ### 2. Branching Networks
 From river deltas to blood vessels to trees:
@@ -49,10 +47,10 @@ From river deltas to blood vessels to trees:
 
 ### 3. Nested Holons
 Every system is whole *and* part:
-- Atom → molecule → cell → organ → organism → ecosystem
-- Individual → family → community → bioregion
+- Atom --> molecule --> cell --> organ --> organism --> ecosystem
+- Individual --> family --> community --> bioregion
 
-**Design implication**: Design for multiple scales simultaneously—what benefits the individual, community, AND ecosystem?
+Design for multiple scales simultaneously; what benefits the individual, community, as well as ecosystem?
 
 ### 4. Edge Effects
 Life flourishes at boundaries:
@@ -60,7 +58,7 @@ Life flourishes at boundaries:
 - River / land
 - Intertidal zones
 
-**Design implication**: Create productive edges and transitions, not hard barriers.
+
 
 ### 5. Diversity and Redundancy
 Resilience comes from variety:
@@ -76,7 +74,6 @@ Life adapts to place:
 - Each organism suited to its niche
 - Solutions that work *here*
 
-**Design implication**: This is [[Bioregional Design]]—adapt to context, don't impose templates.
 
 ## Learning to See Patterns
 
@@ -94,7 +91,7 @@ Pattern literacy is a skill we can develop:
 - What does this pattern accomplish?
 - How might I apply this pattern?
 
-### Study [[Biomimicry]]
+### Study it
 Learn from specific examples:
 - How do termite mounds regulate temperature?
 - How do forests manage water?
@@ -120,9 +117,8 @@ When we become literate in life's patterns, we can:
 - Design food systems that mimic forest ecosystems
 - Create water management that follows watershed patterns
 - Build communities that function like healthy ecosystems
-- Develop economies based on circular flows, not linear extraction
+- Develop economies based on circular flows, instead of linear extraction
 
-This is how we move toward [[Regenerative Culture]]—by learning to read the patterns that sustain life and applying them in all we design.
 
 ## Practice Together
 

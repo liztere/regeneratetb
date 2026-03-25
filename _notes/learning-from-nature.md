@@ -153,11 +153,11 @@ We practice learning from nature through:
 
 ## From Observation to Regeneration
 
-Learning from nature isn't just intellectual—it's a relationship:
+Learning from nature isn't just intellectual, it's a relationship:
 - The more we observe, the more we notice
 - The more we notice, the more we care
 - The more we care, the more we protect
-- The more we protect, the more nature teaches us
+- The more we protect, the more nature teaches and provides.
 
 This reciprocal relationship is the foundation of [[Regenerative Culture]].
 
@@ -176,7 +176,6 @@ Every [[bioregion]] has its own lessons. Our work is to:
 
 Nature is teaching all around us. The question is: are we paying attention?
 
-Join us for [[Community Gatherings]] where we practice observation together, or simply start where you are—step outside, sit quietly, and notice.
 
 What is nature teaching you today?
 

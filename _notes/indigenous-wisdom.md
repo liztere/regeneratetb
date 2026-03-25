@@ -1,10 +1,8 @@
 ---
-title: Indigenous Wisdom
+title: Indigenous Cultures
 ---
 
-Indigenous peoples worldwide have practiced [[Regenerative Culture]] for millennia—living in reciprocal relationship with land, maintaining abundance through careful tending, passing knowledge across generations.
-
-**This knowledge is not historical—it is living wisdom** that has never stopped and has profound relevance for our collective future.
+Indigenous peoples worldwide have practiced [[Regenerative Culture]] for millennia.Living in reciprocal relationship with land, maintaining abundance through careful tending, passing knowledge across generations has profound relevance for our collective future.
 
 ## A Note on Approach
 
@@ -19,7 +17,7 @@ We share what has been offered publicly, always pointing back to indigenous teac
 
 ## Foundational Principles
 
-### We Are Related to Everything
+### Related to Everything
 
 **All My Relations** (Mitakuye Oyasin - Lakota)
 
@@ -28,7 +26,6 @@ We share what has been offered publicly, always pointing back to indigenous teac
 - Harming nature harms ourselves
 - Healing nature heals ourselves
 
-This is [[Living Systems Thinking]] as lived reality for thousands of years.
 
 *Contrast with*: Western view of nature as resource, humans as separate/superior
 
@@ -52,8 +49,6 @@ Principles for taking from nature:
 - Give a gift in reciprocity
 
 *From Robin Wall Kimmerer, Potawatomi botanist and author of Braiding Sweetgrass*
-
-This isn't extraction—it's relationship.
 
 ---
 
@@ -305,7 +300,7 @@ Stories encode:
 
 ### Tending, Not Taking
 
-Indigenous peoples didn't just "live off the land"—they actively tended it:
+Indigenous peoples didn't just "live off the land":
 - Selective harvesting increased abundance
 - Fire management improved productivity
 - Transplanting spread useful species
@@ -324,7 +319,7 @@ If we draw on indigenous wisdom, we must also:
 ### 1. Acknowledge
 - Whose land are you on?
 - In Tampa Bay: Tocobaga, Calusa, and other peoples
-- Not past tense—descendants are still here
+- Not past tense; descendants are still here
 
 ### 2. Learn
 - From indigenous teachers directly
@@ -379,7 +374,7 @@ Indigenous peoples are leading regenerative movements:
 - Leading grassroots movements
 - Centering indigenous climate solutions
 
-**These are not historical lessons—this is present-day leadership.**
+
 
 ## Tampa Bay Indigenous History
 
@@ -418,20 +413,8 @@ Indigenous peoples are leading regenerative movements:
 
 ## Integrating Indigenous Wisdom
 
-This is not about:
-- "Going back" to an idealized past
-- Playing at being indigenous
-- Appropriating practices
-- Romanticism
+It's not about "Going back" to an idealized past, playing at being indigenous, or appropriating practices, but learning from those who never stopped practicing regeneration, and healing broken relationships.
 
-This is about:
-- Learning from those who never stopped practicing regeneration
-- Humbly receiving teachings offered
-- Applying principles ethically
-- Supporting indigenous leadership
-- Healing broken relationships
-
-As [[Daniel Christian Wahl]] acknowledges, [[Regenerative Culture]] builds on indigenous wisdom while creating new expressions for our time.
 
 ## Questions to Sit With
 

@@ -8,7 +8,7 @@ Our gatherings are spaces where [[Regenerative Culture]] comes alive through aut
 
 In a culture of fragmentation and isolation, coming together in intentional ways is itself a regenerative act. Gatherings:
 - Weave networks of relationship across difference
-- Create space for emergence—what wants to be born through us
+- Create space for emergence; what wants to be born through us
 - Practice the principles we're learning
 - Build collective capacity for transformation
 
@@ -52,15 +52,12 @@ Our gatherings create a container where it's safe to:
 
 ## Economic Experimentation
 
-We've experimented with [[Value-for-Value Economics]]—"pay what you can" models that prioritize access and relationship over extraction. This is itself a practice of regeneration: *What if our economic exchanges enhanced life rather than commodifying it?*
+RTB's last event experimented with [[Value-for-Value Economics]] "pay what you can" models that prioritize access and relationship over extraction. This is itself a practice of regeneration: What if our economic exchanges enhanced life rather than commodifying it?
 
 ## Past Gatherings
 
 See [[Past Events]] for stories from previous convergences.
 
-## Join Us
-
-We host gatherings throughout the year. [[Join Us]] to stay connected and receive invitations.
 
 ## Related Concepts
 - [[Regenerative Culture]] - The principles we practice

@@ -2,7 +2,7 @@
 title: Tampa Bay Ecosystems
 ---
 
-The Tampa Bay bioregion is home to rich and diverse ecosystems—each with wisdom to share about resilience, adaptation, and life-sustaining patterns.
+The Tampa Bay bioregion is home to rich and diverse ecosystems.
 
 ## Our Major Ecosystems
 
@@ -201,7 +201,6 @@ Imagine a Tampa Bay where:
 - Children grow up knowing how to identify the plants and critters in their own backyard.
 - Our economy enhances ecosystem health
 
-[[Bioregional Design]] -- creating human systems that participate in the regeneration of place.
 
 ## Explore Further
 - [[Bioregional Design]] - Designing with our ecosystems

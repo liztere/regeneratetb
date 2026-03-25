@@ -22,7 +22,7 @@ Natives are adapted to:
 - Local soil conditions
 
 **Cultural Connection**
-These species have sustained human communities for millennia. Learning their names and relationships helps us become native to place.
+These species have sustained human communities for millennia. Learning their names and relationships helps us become native to place. This list is not at all exhaustive!
 
 ## Keystone Species
 
@@ -338,9 +338,7 @@ Every native species is part of an intricate web:
 - Birds spread seeds
 - Everything is connected
 
-When we plant natives, we're not just adding plants—we're restoring relationships that have evolved over millennia.
 
-This is [[Regenerative Culture]] in practice: participating in the web of life by supporting the species that belong here.
 
 ## Explore Further
 - [[Tampa Bay Ecosystems]] - Where these species live
