@@ -2,7 +2,7 @@
 title: Community Gatherings
 ---
 
-Our gatherings are spaces where [[Regenerative Culture]] comes alive through authentic connection, intergenerational exchange, and collective exploration.
+Our gatherings are spaces where [[Regenerative Culture]] comes alive through authentic connection, inter-generational exchange, and collective exploration.
 
 ## Why We Gather
 
@@ -12,14 +12,6 @@ In a culture of fragmentation and isolation, coming together in intentional ways
 - Practice the principles we're learning
 - Build collective capacity for transformation
 
-## Our Approach
-
-### Life-Centered, Not Event-Centered
-We design gatherings as **living systems**, not productions:
-- Holding space for what wants to emerge
-- Honoring spontaneity and organic flow
-- Trusting the wisdom of the circle
-- Balancing structure with openness
 
 ### Intergenerational by Design
 [[Regenerative Culture]] requires exchange between generations:
@@ -34,21 +26,6 @@ Every gathering is an opportunity to deepen relationship with our [[bioregion]]:
 - Learning from the land itself
 - Practicing [[Bioregional Design]] in how we gather
 
-### Hands-On Learning
-We learn by doing:
-- Rainwater harvesting workshops
-- [[Learning from Nature]] walks
-- Regenerative gardening demonstrations
-- Community mapping and resource sharing
-
-## The Container We Hold
-
-Our gatherings create a container where it's safe to:
-- Ask the deeper questions
-- Be vulnerable and authentic
-- Explore new ideas without having all the answers
-- Build relationships beyond transactional networking
-- Practice [[Living Systems Thinking]] together
 
 ## Economic Experimentation
 
@@ -64,6 +41,6 @@ See [[Past Events]] for stories from previous convergences.
 - [[Living Systems Thinking]] - How we design gatherings
 - [[Intergenerational Learning]] - Wisdom exchange
 - [[Circle Process]] - How we hold space together
-```
+
 
 ---
