@@ -2,45 +2,28 @@
 title: Community Gatherings
 ---
 
-Our gatherings are spaces where [[Regenerative Culture]] comes alive through authentic connection, inter-generational exchange, and collective exploration.
+# Community Gatherings
+
 
 ## Why We Gather
 
-In a culture of fragmentation and isolation, coming together in intentional ways is itself a regenerative act. Gatherings:
-- Weave networks of relationship across difference
-- Create space for emergence; what wants to be born through us
-- Practice the principles we're learning
-- Build collective capacity for transformation
+In a culture that fragments and isolates us, coming together intentionally is itself regenerative. Gatherings weave networks across our differences and create space for emergence, for whatever wants to be born through us coming together. They let us practice the principles we're learning and build our collective capacity for transformation.
 
+Regenerative culture needs exchange between generations. Elders share wisdom and perspective. Youth bring fresh vision and energy. Children remind us to play, wonder, and create. 
 
-### Intergenerational by Design
-[[Regenerative Culture]] requires exchange between generations:
-- Elders sharing wisdom and perspective
-- Youth bringing fresh vision and energy
-- Children reminding us to play, wonder, create
-- All ages learning from each other
+## Place-Based Practice
 
-### Place-Based Practice
-Every gathering is an opportunity to deepen relationship with our [[bioregion]]:
-- Meeting in places that teach us about local ecosystems
-- Learning from the land itself
-- Practicing [[Bioregional Design]] in how we gather
+Every gathering is a chance to deepen our relationship with our bioregion. We meet in places that teach us about local ecosystems, learn from the land itself, and practice bioregional design in how we actually gather.
 
+RTB's last event experimented with value-for-value economics, using "pay what you can" models that prioritize access and relationship over extraction. This is regeneration in action. What if our economic exchanges enhanced life instead of commodifying it?
 
-## Economic Experimentation
+Check out [[Past-Events]] 
 
-RTB's last event experimented with [[Value-for-Value Economics]] "pay what you can" models that prioritize access and relationship over extraction. This is itself a practice of regeneration: What if our economic exchanges enhanced life rather than commodifying it?
-
-## Past Gatherings
-
-See [[Past Events]] for stories from previous convergences.
-
-
-## Related Concepts
-- [[Regenerative Culture]] - The principles we practice
-- [[Living Systems Thinking]] - How we design gatherings
-- [[Intergenerational Learning]] - Wisdom exchange
-- [[Circle Process]] - How we hold space together
+## Keep walking:
+- [[Regenerative Culture]]
+- [[Living Systems Thinking]]
+- [[Intergenerational Learning]] 
+- [[Circle Process]] 
 
 
 ---

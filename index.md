@@ -7,51 +7,32 @@ permalink: /
 
 # Regenerating Our Bioregion
 
-Welcome to the Regenerate Tampa Bay knowledge garden: a living, evolving collection of ideas, practices, and connections exploring what it means to create regenerative cultures in our region.
+Welcome to the Regenerate Tampa Bay knowledge garden. This is a living, evolving collection of ideas, practices, and connections exploring what it means to be regenerative in our region.
 
 ## What is Regeneration?
 
-**Regeneration goes beyond sustainability.** While sustainability asks "how do we do less harm?", regeneration asks "how can we participate in the healing and thriving of all life?" More importantly, regeneration is not a concept. It is a fundamental process of life. 
+Regeneration goes beyond sustainability. While sustainability asks "how do we do less harm?", regeneration asks "how can we participate in the healing and thriving of all life?" More importantly, regeneration is not a concept. It's a fundamental process of life.
 
-Key inspirational spokespeople for regeneration and systems thinking: Lyla June, Donella Meadows, Daniel Christian Wahl, Alexa Fermenich, Fritjof Capra, Paul Hawken, and countless [[indigenous cultures]]. This garden attempts to aggregate the principles, practices, and organizations with similar goals to that enhance rather than degrade the health of this living planet to educate the Tampa Bay community and provide a portal to organize for tangible change.
+We're standing on the shoulders of giants here. Key voices (not exhaustive) for regeneration and systems thinking that have inspired the ideas outlined here include Lyla June, Donella Meadows, Daniel Christian Wahl, Alexa Fermenich, Fritjof Capra, Paul Hawken, and countless indigenous cultures who've been doing this for millennia. This garden tries to pull together the principles, practices, and organizations working to enhance rather than degrade the health of this living planet, specifically for the Tampa Bay community, and give us a place to organize and improve coherence for tangible change.
 
 ## Explore the Garden
 
-Start anywhere and follow the threads that call to you:
+Start anywhere and follow whatever calls to you. You might check out [[Regenerative-Culture]] to understand what it means to create cultures that heal, or dive into [[Living-Systems-Thinking]] to see how our region works as interconnected webs of life. [[Bioregional-Design]] is about creating solutions that actually fit our specific place, and [[Pattern-Literacy]] helps us read and work with nature's patterns.
 
-### Core Concepts
-- [[Regenerative Culture]] - What does it mean to create cultures that heal?
-- [[Living Systems Thinking]] - Understanding our region as interconnected webs of life
-- [[Bioregional Design]] - Creating solutions uniquely suited to our place
-- [[Pattern Literacy]] - Learning to read and work with nature's patterns
+[[Learning-from-Nature]] covers biomimicry and ecosystem wisdom.  Hit up [[Join-Us]] to connect with the community, or check out [[Resources]] for books, talks, and deeper reading.
 
-### Our Practice
-- [[Community Gatherings]] - How we come together
-- [[Events]] - Past & future gatherings
-- [[Learning from Nature]] - Biomimicry and ecosystem wisdom
-
-### Get Involved
-- [[Join Us]] - Connect with the community
-- [[Resources]] - Books, talks, and materials for deeper exploration
-
----
+Most of these pages will have a notebook, bulletpoint kinda style for easier comprehension. The information can get a bit dense.
 
 ## How to Use This Garden
 
-This is a **digital garden**, not a blog. Notes are:
-- **Constantly growing** - we add and refine over time
-- **Interconnected** - follow the [[links]] between ideas
-- **Non-linear** - there's no required reading order
-- **Living** - ideas evolve as we learn
+This is a digital garden, not a blog. Notes are constantly growing as we add and refine things. They're all interconnected so you can follow the [[ links ]] between ideas. There's no required reading order, just explore however makes sense to you. These ideas are living and evolve as we learn.
 
-Click any [[linked term]] to explore that concept. At the bottom of each page, you'll see backlinks—other notes that reference this idea.
-
-
----
+Click any [[ linked term ]] to explore that concept. At the bottom of each page, you'll see backlinks showing other notes that reference this idea.
 
 *Current # of stewards for this garden as of 02-2026: 1*
 
-*[Contact](regeneratetb[at]tuta.io) or [[Join Us]] to participate.*
+
+*Contact: regeneratetb[at]tuta.io for inquiries*
 
 <strong>Recently updated notes</strong>
 
