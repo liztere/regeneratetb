@@ -99,7 +99,7 @@ Network with new people and teachers in our **Connections & Tea space**, where p
 | **Connections Barn** | All afternoon | Connections Mapping / We Regenerate |
 | **Market** | All afternoon | Vending and Tabling |
 
-(sorry, i dont know how this table isn't working. i've followed the instructions exactly. you get the jist though...)
+sorry, i dont know how this table isn't working. i've followed the instructions exactly. you get the gist though...also idk why this text is so big.
 ---
 
 ### The Pricing Model
