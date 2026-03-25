@@ -454,7 +454,5 @@ It's not about "Going back" to an idealized past, playing at being indigenous, o
 
 *"We are the middle of a long story." - Winona LaDuke*
 
-Indigenous wisdom reminds us regeneration is remembering how to live as relatives with all life.
-```
 
 ---
