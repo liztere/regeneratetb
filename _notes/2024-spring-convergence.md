@@ -102,10 +102,6 @@ Network with new people and teachers in our **Connections & Tea space**, where p
 
 ---
 
-## Our Value-for-Value Experiment
-
-We embraced **"value for value"** pricing—a new way of thinking about exchange that puts relationships and access at the center:
-
 ### The Pricing Model
 
 We offered:
@@ -114,13 +110,7 @@ We offered:
 - 💛 **Cover Event Cost ($30)** - Standard attendance support  
 - 🧡 **Support the Community ($60)** - Fair compensation for speakers and organizers, plus seed funding for future events
 
-### Why This Approach?
 
-From our event description:
-
-> "We believe in the transformative power of shared experiences and the principle of 'value for value.' This event is not just about attendance; it's about shared experiences and connecting us to life."
-
-This experimental approach helped us tell a new story of economics—putting life at the center of money. See [[Regenerative Economics]] for more on this approach.
 
 ---
 
@@ -132,7 +122,7 @@ In a culture of fragmentation, intentional gathering across difference creates s
 
 ### 2. Intergenerational Exchange Enriches Everyone
 
-From elders sharing wisdom to children reminding us to play, to youth bringing fresh vision—all ages together strengthened the whole.
+From elders sharing wisdom to children reminding us to play, to youth bringing fresh vision; all ages together strengthened the whole.
 
 ### 3. Place-Based Learning Matters
 
@@ -148,36 +138,6 @@ The energy, engagement, and feedback was clear: people are hungry for spaces lik
 
 ---
 
-## Participant Reflections
-
-*"This felt different from other events. People really showed up with their hearts."*
-
-*"I loved seeing my kids learning alongside elders. That doesn't happen enough."*
-
-*"I met so many people doing regenerative work in Tampa Bay I didn't know about. We need to connect more."*
-
----
-
-## Looking Forward
-
-This convergence was the beginning, not the end. It showed us:
-- The appetite for regenerative gathering in Tampa Bay
-- The power of [[Circle Process]] and intentional design
-- The possibility of [[Value-for-Value Economics]] in practice
-- The importance of [[Community Gatherings]] as foundation for culture shift
-
-Future events will build on what we learned here.
-
----
-
-## Get Involved
-
-Want to participate in future gatherings or help organize?
-
-- [[Join Us]] - Connect with the community
-- Stay tuned for announcements of future events
-
----
 
 ## Explore Further
 - [[Past Events]] - Archive of gatherings
@@ -185,4 +145,3 @@ Want to participate in future gatherings or help organize?
 - [[Community Gatherings]] - Our approach to gathering
 - [[Circle Process]] - How we hold space
 - [[Regenerative Culture]] - The principles we practice
-- [[Value-for-Value Economics]] - Our economic experiments

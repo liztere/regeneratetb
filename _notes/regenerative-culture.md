@@ -18,7 +18,7 @@ Regenerative cultures have some key qualities. They develop pattern literacy, wh
 
 These cultures are participatory. Everyone contributes their gifts and culture emerges from relationships, not some top-down mandate. They stay adaptive, constantly learning and responding to feedback from the living world. And they're life-affirming, making decisions by asking "does this enhance life?"
 
-In Tampa Bay ideally we'd be practicing this through community gatherings that bring different voices together, learning from nature hands-on, building networks across different sectors, and creating spaces for intergenerational exchange where elder wisdom and youth vision both matter. A group of use did one such event called Regenerate Tampa Bay [[2024-spring-convergence]]
+In Tampa Bay ideally we'd be practicing this through community gatherings that bring different voices together, learning from nature hands-on, building networks across different sectors, and creating spaces for intergenerational exchange where elder wisdom and youth vision both matter. A group of use did one such event called Regenerate Tampa Bay: [[2024-spring-convergence]]
 
 ## The Journey
 

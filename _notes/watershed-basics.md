@@ -267,4 +267,3 @@ See the restoration efforts taken place so far: [https://tampabay.wateratlas.usf
 
 ---
 
-Water connects us all. Understanding watersheds helps us understand our place in the living world.
